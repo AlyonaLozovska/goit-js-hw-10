@@ -19,9 +19,7 @@ body {
   margin-bottom: 16px;
 }
 
-/* .country-list {
-  list-style: none;
-} */
+
 
 .country-item {
   display: flex;
@@ -43,13 +41,12 @@ body {
 .country-title {
   font-size: 30px;
   font-weight: 900;
+  margin-right: 20px;
 }
 
 .country-text {
-font-size: 23px;
-font-weight: 700;
+font-size: 25px;
+font-weight: 500;
 margin-right: 20px;
 }
-/* .country-subtext {
-  font-size: 20px;
-} */
+
